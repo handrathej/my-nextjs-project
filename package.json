@@ -1,16 +1,16 @@
 {
     "name": "my-nextjs-project",
     "version": "1.1.0",
-    "description": "NextJS project template by Rafly Maulana",
+    "description": "NextJS project template by J",
     "main": "index.js",
-    "repository": "https://github.com/raflymln/nextjs-template.git",
-    "bugs": "https://github.com/raflymln/nextjs-template",
+    "repository": "https://github.com/handrathej/nextjs-template.git",
+    "bugs": "https://github.com/handrathej/nextjs-template",
     "author": {
-        "name": "Rafly Maulana",
-        "email": "mraflymaulana@gmail.com",
-        "url": "https://raflymaulana.me"
+        "name": "Handra Meizaluna",
+        "email": "handrameizaluna@gmail.com",
+        "url": "https://handrathej.site"
     },
-    "homepage": "https://raflymaulana.me",
+    "homepage": "https://handrathej.site",
     "license": "MIT",
     "private": true,
     "contributors": [],
